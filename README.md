@@ -1,5 +1,7 @@
 # token garbber
-                      <img width="166" height="180" alt="OIP" src="https://github.com/user-attachments/assets/5d4181ec-6ce4-409f-af91-eaffbb4e12d6" />
+---------------------------
+
+  <img width="166" height="180" alt="OIP" src="https://github.com/user-attachments/assets/413e5ee5-4d23-4665-b326-4b71b06284de" />
 
 ## 使い方
 
